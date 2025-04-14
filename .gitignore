@@ -34,3 +34,5 @@ build/
 ### JAR 파일 ###
 *.jar
 PawGether.jar
+### DS_Store ###
+.DS_Store
