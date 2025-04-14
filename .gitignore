@@ -31,7 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-
 ### JAR 파일 ###
 *.jar
 PawGether.jar
